@@ -1,4 +1,4 @@
-Twitter Bootstrap - ALCAR Theme HTML5
+ALCAR Drupal 7.x Theme HTML5
 ===========================================
 
 ## Descripcion 
